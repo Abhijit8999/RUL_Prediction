@@ -1,3 +1,2 @@
 # RUL_Prediction
-https://colab.research.google.com/drive/1KvPmQW-W0mrVwE8FFI2iHKwOs0llA8l5#scrollTo=ri-AxqGZNjQr (Converting into pickle(.pkz) files => (data_pkz.ipynb)
-https://colab.research.google.com/drive/1Vs6lfdhlK6wzIarCcm3Zh73FmPu0RIXA#scrollTo=QdfguGCyhK0K (Data Preprocessing and signal Processing code link => (DP_SP.ipynb))
+https://colab.research.google.com/drive/1KvPmQW-W0mrVwE8FFI2iHKwOs0llA8l5 (Converting into pickle(.pkz) files => (data_pkz.ipynb)
